@@ -1,4 +1,9 @@
+# Layout of Meme generator using React
 
+<img width="1431" alt="Screenshot 2023-01-29 at 10 54 47 PM" src="https://user-images.githubusercontent.com/54857981/215408174-bf562744-1226-47cc-82ad-0643208f53de.png">
+
+- When clicked on Get new meme image, the image is fetched from this api: https://api.imgflip.com/get_memes .
+- Top and bottom text are updated on the image when typed in the input fields.
 
 # Getting Started with Create React App
 
